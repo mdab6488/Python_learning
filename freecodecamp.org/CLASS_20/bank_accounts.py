@@ -39,7 +39,7 @@ class BankAccount:
             self.viableTransaction(ammount)
             self.withdraw(ammount)
             otherAccount.deposit(ammount)
-            print("\Transfer Complete! ✅\n******************************")
+            print("\nTransfer Complete! ✅\n******************************")
 
             # self.balance = self.balance - ammount
             # otherAccount.balance = otherAccount.balance + ammount
