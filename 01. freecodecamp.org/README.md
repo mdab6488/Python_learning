@@ -1,5 +1,5 @@
 # Links
-
+https://www.youtube.com/watch?v=qwAFL1597eM
 https://github.com/gitdagray/python-course
 
 # Getting Started
