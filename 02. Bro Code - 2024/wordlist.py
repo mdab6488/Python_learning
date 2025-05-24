@@ -1,0 +1,28 @@
+# words for hangman game
+words = ("elephant", "giraffe", "kangaroo", "alligator", "dolphin",
+    "cheetah", "penguin", "rhinoceros", "hippopotamus", "chimpanzee",
+    "zebra", "leopard", "ostrich", "crocodile", "koala",
+    "tiger", "lion", "bear", "wolf", "fox",
+    "bat", "rabbit", "squirrel", "deer", "moose",
+    "camel", "goat", "sheep", "horse", "donkey",
+    "parrot", "eagle", "owl", "flamingo", "peacock",
+    "toucan", "whale", "shark", "octopus", "seal",
+    "jellyfish", "starfish", "seahorse", "lobster", "crab",
+    "ant", "bee", "butterfly", "mosquito", "grasshopper",
+    "spider", "snail", "slug", "worm", "frog",
+    "toad", "newt", "salamander", "lizard", "gecko",
+    "iguana", "python", "cobra", "viper", "raccoon",
+    "skunk", "beaver", "porcupine", "armadillo", "opossum",
+    "platypus", "hedgehog", "badger", "mongoose", "panther",
+    "lynx", "jackal", "hyena", "meerkat", "boar",
+    "bison", "buffalo", "yak", "reindeer", "walrus",
+    "manatee", "narwhal", "orca", "caribou", "wolverine",
+    "weasel", "mole", "lemur", "sloth", "tapir",
+    "gazelle", "ibex", "chinchilla", "gerbil", "hamster",
+    "ferret", "macaw", "cockatoo", "quail", "rooster",
+    "turkey", "pigeon", "dove", "swallow", "magpie",
+    "crow", "raven", "sparrow", "canary", "finch",
+    "pufferfish", "stingray", "anglerfish", "catfish", "trout",
+    "salmon", "bass", "guppy", "goldfish", "eel")
+
+# print(type(words))
