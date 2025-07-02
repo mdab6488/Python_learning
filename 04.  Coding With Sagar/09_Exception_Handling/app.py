@@ -1,0 +1,1 @@
+print(2 + "hi") # TypeError: unsupported operand type(s) for +: 'int' and 'str'

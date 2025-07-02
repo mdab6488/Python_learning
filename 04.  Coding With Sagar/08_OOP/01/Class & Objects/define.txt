@@ -1,0 +1,22 @@
+A class is blueprint or template for creating objects.
+
+map - class
+house - object
+
+object are the actual instance of a class
+
+class = car blueprint
+object = actual car
+
+
+-------------------------
+name roll number grade
+program software
+
+95
+90
+
+update marks
+
+riyan > 95
+

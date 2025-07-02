@@ -1,0 +1,7 @@
+2 primary files types
+1 - text files (.txt, .csv)
+2 - binary files (non text data, .png .jpg .pdf .mp3)
+
+with statement
+with open("file_name", "mode") as file_name:
+    print(file_name.read())

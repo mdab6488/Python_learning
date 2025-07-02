@@ -1,0 +1,36 @@
+string and characters
+
+numbers
+a-z A-Z !@#$%
+" "
+
+single quotes - 'python'
+double - "python"
+triple quptes -
+'''
+this is a
+mult line
+'''
+
+"""
+this is
+also a multi
+line
+"""
+
+indexing 0
++ve
+-neg
+a = "python"
+p 0
+y 1
+t 2
+h 3
+o 4
+n 5
+-----------------------
+1. Immutable
+2. Indexed
+3. iterable
+-----------------------
+4.

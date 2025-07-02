@@ -1,0 +1,20 @@
+multiple items repeat
+
+1. while loop
+2. for loop
+
+----------------------------
+1. while loop
+True
+----------------------------
+while condition:
+    code to execute
+
+----------------------------
+2. for loop
+[1,2,3,4,5]
+5 times
+list of tuple dictonary string
+----------------------------
+for variable in sequence:
+    code to execute

@@ -1,0 +1,35 @@
+what are errrors?
+
+a - copile-time errors
+b - runtime errors
+c - logical errors
+
+errors in software - bugs
+removing fixing these erros - debugging
+
+exception ->
+1 - start running
+2 - warning sign
+3 - catch and handle, program crash
+
+
+exception handling ?
+1 -
+    ZeroDivisionError
+
+100 line
+10-20 line -> error
+organise
+
+----------------------------
+try-except
+try- code error
+except -
+
+finally block
+----------------------------
+
+nested try-except block
+
+
+
